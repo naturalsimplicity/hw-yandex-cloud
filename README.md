@@ -1,1 +1,1 @@
-# hw-yandex-cloud
+# Практика работы в Yandex Cloud
